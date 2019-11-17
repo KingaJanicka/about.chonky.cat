@@ -8,7 +8,7 @@ audio development field so if you know of any, please [say hi!](mailto:kinga@cho
 
 ### Some of my recent projects are below:
 
-- [Snake game]() (2019; C++)
+- [Snake game](https://github.com/KingaJanicka/Snake) (2019; C++)
 - Untitled Space Invaders clone (work-in-progress, 2019; C++)
 - [ReactSynth](https://github.com/KingaJanicka/ReactSynth), an in-progress online collaborative modular synth (work-in-progresss, 2019; React, Web Audio API)
 - [chonky.cat](https://chonky.cat), an exploration of minimalist internet aesthetic (work-in-progress, 2019; HTML and CSS)
