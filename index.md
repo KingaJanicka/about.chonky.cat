@@ -5,6 +5,7 @@
 Hi, my name's Kinga and I am self-teaching myself C++ with the intention of writing
 VST plugins for audio software. I'm currently looking for entry-level jobs in the
 audio development field so if you know of any, please [say hi!](mailto:kinga@chonky.cat)
+I prefer They/Them pronouns, please.
 
 ### Some of my recent projects are below:
 
